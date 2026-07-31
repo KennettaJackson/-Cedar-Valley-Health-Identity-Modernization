@@ -1,0 +1,84 @@
+# Microsoft Entra ID User Provisioning Documentation
+
+## Cedar Valley Health Zero Trust Identity Lab
+
+## Objective
+
+The objective of this implementation was to create and configure employee identities in Microsoft Entra ID for the Cedar Valley Health environment.
+
+User provisioning established the foundation for identity management by creating cloud-only user accounts with accurate identity information, including departments, job titles, and locations.
+
+Proper user provisioning supports future access management activities such as security group assignment, RBAC, MFA enforcement, and identity governance.
+
+---
+
+# User Creation Process
+
+Microsoft Entra ID Bulk Create was used to efficiently provision multiple employee accounts.
+
+The following steps were performed:
+
+1. Signed into the Microsoft Entra admin center.
+
+2. Navigated to:
+
+ Users → All users
+
+3. Selected:
+
+Bulk operations → Bulk create
+
+4. Downloaded the Microsoft Entra CSV template.
+
+5. Added Cedar Valley Health employee information.
+
+6. Validated required fields.
+
+7. Uploaded the CSV file.
+
+8. Submitted the bulk creation request.
+
+---
+
+# Users Created
+
+| User | Job Title | Department | Location |
+|---|---|---|---|
+| Ethan Hughes | Cloud Administrator | IT | Dallas |
+| Michael Rivera | IT Manager | IT | Dallas |
+| James Walker | Help Desk Technician | IT | Dallas |
+| Emma Thomas | HR Manager | Human Resources | Dallas |
+| David King | HR Specialist | Human Resources | Dallas |
+| Grace Hill | Accountant | Finance | Dallas |
+| Lucas Green | Payroll Specialist | Finance | Dallas |
+| Daniel Scott | Sales Manager | Sales | Dallas |
+| Mia Turner | Sales Representative | Sales | Dallas |
+| Alex Morgan | CEO | Executive | Dallas |
+
+---
+
+# Validation
+
+The following checks were completed:
+
+- Verified all 10 users were created successfully
+- Confirmed user attributes
+- Verified departments and job titles
+- Confirmed accounts were active
+- Reviewed audit logs
+
+---
+
+# Zero Trust Connection
+
+User provisioning supports Zero Trust by ensuring identities are:
+
+- Verified before access is granted
+- Properly classified by role
+- Ready for least privilege access assignment
+
+---
+
+# Result
+
+Ten Cedar Valley Health employee identities were successfully created in Microsoft Entra ID.
