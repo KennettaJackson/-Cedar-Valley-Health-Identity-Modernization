@@ -1,0 +1,61 @@
+# Microsoft Entra ID Audit Logging and Zero Trust Validation
+
+## Cedar Valley Health Zero Trust Identity Lab
+
+## Objective
+
+Audit logs were reviewed to verify administrative actions and maintain accountability within the Microsoft Entra ID environment.
+
+---
+
+# Audit Activities Reviewed
+
+The following activities were validated:
+
+- User creation
+- Security group creation
+- Group membership changes
+- Administrative role assignments
+
+---
+
+# Zero Trust Final Review
+
+## Identity
+
+✅ Users created correctly  
+✅ Departments assigned  
+✅ Job titles added  
+
+## Access Control
+
+✅ Users placed into groups  
+✅ Administrative roles limited  
+✅ Least privilege applied  
+
+## Monitoring
+
+✅ Audit logs reviewed  
+✅ Administrative changes verified  
+
+---
+
+# Zero Trust Principles Applied
+
+## Verify Explicitly
+
+Users were authenticated before receiving access.
+
+## Least Privilege
+
+Permissions were assigned based on job responsibilities.
+
+## Assume Breach
+
+Access was limited to reduce the impact of compromised accounts.
+
+---
+
+# Result
+
+Audit logging confirmed visibility into identity changes and supported Cedar Valley Health's Zero Trust security model.
