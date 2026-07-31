@@ -1,0 +1,74 @@
+# Microsoft Entra ID Security Group Assignment Documentation
+
+## Cedar Valley Health Zero Trust Identity Lab
+
+## Objective
+
+The objective of this task was to create Microsoft Entra ID security groups based on department responsibilities and assign users according to their business functions.
+
+Security groups allow Cedar Valley Health to manage access efficiently by assigning permissions to groups instead of individual users.
+
+This supports Role-Based Access Control (RBAC) and the Principle of Least Privilege.
+
+---
+
+# Security Groups Created
+
+## CVH-Executives
+
+Executive leadership responsible for strategic planning, governance, organizational oversight, and executive decision-making.
+
+---
+
+## CVH-Finance-Team
+
+Finance professionals responsible for accounting, payroll, budgeting, financial reporting, and revenue management.
+
+---
+
+## CVH-HR-Team
+
+Human Resources personnel responsible for recruiting, onboarding, employee records, benefits administration, and workforce management.
+
+---
+
+## CVH-IT-Department
+
+Information Technology professionals responsible for Identity and Access Management (IAM), cloud administration, technical support, infrastructure management, cybersecurity operations, and system maintenance.
+
+---
+
+## CVH-Sales-Team
+
+Business Development and Community Outreach personnel responsible for expanding community partnerships, promoting healthcare services, coordinating employer wellness initiatives, and supporting organizational growth.
+
+---
+
+# RBAC Design Approach
+
+Each security group was created to support Role-Based Access Control by assigning permissions according to business responsibilities rather than assigning permissions directly to individual users.
+
+This approach:
+
+- Simplifies administration
+- Improves scalability
+- Supports Least Privilege
+- Reduces administrative overhead
+- Creates consistent access management
+
+---
+
+# Group Assignment Validation
+
+Verified:
+
+- Users were placed into correct department groups
+- Group memberships matched job responsibilities
+- Unauthorized access was avoided
+- Audit logs recorded membership changes
+
+---
+
+# Result
+
+Security groups were successfully created and assigned, establishing the foundation for RBAC and Zero Trust access control.
