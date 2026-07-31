@@ -1,0 +1,43 @@
+# Microsoft Entra ID Administrative Role Assignments
+
+## Cedar Valley Health Zero Trust Identity Lab
+
+## Objective
+
+Administrative roles were assigned based on job responsibilities while following the Principle of Least Privilege.
+
+Users received only the permissions required to complete their assigned duties.
+
+---
+
+# Role Assignments
+
+## Ethan Hughes — Global Administrator
+
+Ethan Hughes was assigned the Global Administrator role due to his responsibility as Cloud Administrator.
+
+This role provides extensive control over Microsoft Entra ID, including user management, security settings, and tenant configuration.
+
+Because this is a highly privileged role, it requires strong security controls, monitoring, and limited assignment.
+
+---
+
+## Michael Rivera — User Administrator
+
+Michael Rivera was assigned the User Administrator role as the IT Manager responsible for user account management.
+
+This role allows user administration without granting unnecessary tenant-wide permissions.
+
+---
+
+## James Walker — Helpdesk Administrator
+
+James Walker was assigned the Helpdesk Administrator role to support users with password resets and identity-related issues.
+
+This provides required support access while limiting administrative privileges.
+
+---
+
+# Result
+
+Administrative roles were successfully assigned using least privilege principles.
