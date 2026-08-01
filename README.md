@@ -74,7 +74,7 @@ Implemented:
 
 Detailed technical documentation:
 
-➡️ See: [Phase 1 - Cloud Identity Foundation](./Phase-1-Cloud-Identity-Foundation)
+➡️ See:[Phase 1 - Cloud Identity Foundation](./Phase%201-%20Cloud-Identity-Foundation)
 
 ---
 
