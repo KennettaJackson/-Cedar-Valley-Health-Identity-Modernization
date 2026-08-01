@@ -74,7 +74,7 @@ Implemented:
 
 Detailed technical documentation:
 
-➡️ See: [Phase 1 - Cloud Identity Foundation](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%201-%20Cloud-Identity-Foundation)
+➡️ See:  [Phase 1 - Cloud Identity Foundation](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%201-%20Cloud-Identity-Foundation)
 
 ---
 
