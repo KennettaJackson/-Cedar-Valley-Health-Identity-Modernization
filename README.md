@@ -21,7 +21,7 @@ A complete walkthrough of this project will demonstrate:
 - Future IAM roadmap
 
 📹 **Portfolio Walkthrough:**  
-*(Add video link here)*
+https://www.loom.com/share/f222789df0344e4081f6b028f9233945
 
 ---
 
